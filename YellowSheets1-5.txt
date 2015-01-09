@@ -1,0 +1,7 @@
+START: coding sessions, coding, communication, tackling the easy problems first
+
+STOP: saying we are going to code but not
+
+MORE: coding, communication, coding together
+
+LESS: saying we are going to code but not, complaining, lack of communication, dont code
